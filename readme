@@ -1,0 +1,1 @@
+Bot run through slack via a .py file. The bot recieves data and creates a basic database of phrases (NAME) for each provided category (ACTION).
